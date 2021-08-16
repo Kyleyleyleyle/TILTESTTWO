@@ -1,0 +1,800 @@
+/* screen - news-and-reports */
+
+.news-and-reports {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1526px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.news-and-reports .rectangle-17-tx6fPo {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 765px;
+  left: 117px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 505px;
+  width: 546px;
+}
+
+.news-and-reports .gallery-image2-tx6fPo {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.news-and-reports .about-tx6fPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.news-and-reports .about-tx6fPo:hover {
+  color: #BFE7F5
+}
+
+.news-and-reports .home-tx6fPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.news-and-reports .home-tx6fPo:hover {
+  color: #BFE7F5
+}
+
+.news-and-reports .initiatives-tx6fPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.news-and-reports .initiatives-tx6fPo:hover {
+  color: #BFE7F5
+}
+
+.news-and-reports .classroom-redesign-tx6fPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.news-and-reports .classroom-redesign-tx6fPo:hover {
+  color: #BFE7F5
+}
+
+.news-and-reports .group-21-tx6fPo {
+  background-color: transparent;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.news-and-reports .group-21-tx6fPo:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .rectangle-9-lqxmWt {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.news-and-reports .contact-us-lqxmWt {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.news-and-reports .news-and-reports-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.news-and-reports .news-and-reports-tx6fPo:hover {
+  color: #BFE7F5
+}
+
+.news-and-reports .vector-tx6fPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 3.57%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.09%;
+  width: 10.49%;
+}
+
+.news-and-reports .til2021-logo-1-1-tx6fPo {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.news-and-reports .news-and-reports-0YIZ8o {
+  background-color: transparent;
+  height: auto;
+  left: 556px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.news-and-reports .line-1-tx6fPo {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.news-and-reports .things-move-qui-our-news-column-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 379px;
+  width: 1127px;
+}
+
+.news-and-reports .transforming-th-innovative-work-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 180px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 886px;
+  width: 421px;
+}
+
+.news-and-reports .all-about-the-t-s-working-group-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 225px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 773px;
+  width: 334px;
+}
+
+.news-and-reports .progress-tx6fPo {
+  background-color: transparent;
+  height: 203px;
+  left: 270px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 561px;
+  width: 242px;
+}
+
+.news-and-reports .group-35-tx6fPo {
+  background-color: transparent;
+  height: 44px;
+  left: 277px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1155px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.news-and-reports .group-35-tx6fPo:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .rectangle-18-XClpJr {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+
+.news-and-reports .continue-reading-XClpJr {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.news-and-reports .group-36-tx6fPo {
+  background-color: transparent;
+  height: 95px;
+  left: 117px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1322px;
+  transition: all 0.2s ease;
+  width: 548px;
+}
+
+.news-and-reports .group-36-tx6fPo:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .rectangle-22-sDmsJx {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 95px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 546px;
+}
+
+.news-and-reports .report-repository-sDmsJx {
+  background-color: transparent;
+  height: auto;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: auto;
+}
+
+.news-and-reports .group-37-tx6fPo {
+  background-color: transparent;
+  height: 95px;
+  left: 692px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1322px;
+  transition: all 0.2s ease;
+  width: 592px;
+}
+
+.news-and-reports .group-37-tx6fPo:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .rectangle-23-dHJkX1 {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 95px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 590px;
+}
+
+.news-and-reports .see-all-news-and-blog-posts-dHJkX1 {
+  background-color: transparent;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: auto;
+}
+
+.news-and-reports .rectangle-19-tx6fPo {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 232px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 505px;
+  width: 590px;
+}
+
+.news-and-reports .rectangle-24-tx6fPo {
+  background-color: transparent;
+  height: 232px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 505px;
+  width: 129px;
+}
+
+.news-and-reports .a-new-vision-for-til-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 572px;
+  width: 266px;
+}
+
+.news-and-reports .keyboardarrowright-tx6fPo {
+  background-color: transparent;
+  height: 86px;
+  left: 1196px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 578px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.news-and-reports .keyboardarrowright-tx6fPo:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .vector-BQkoxQ {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  width: 31.25%;
+}
+
+.news-and-reports .vector-gps1Mk {
+  background-color: transparent;
+  height: 0.58%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.71%;
+  width: 0.69%;
+}
+
+.news-and-reports .rectangle-20-tx6fPo {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 233px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 771px;
+  width: 590px;
+}
+
+.news-and-reports .rectangle-21-tx6fPo {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 232px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1038px;
+  width: 590px;
+}
+
+.news-and-reports .keyboardarrowright-0YIZ8o {
+  background-color: transparent;
+  height: 86px;
+  left: 1196px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1111px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.news-and-reports .keyboardarrowright-0YIZ8o:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .vector-zOHQbL {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  width: 31.25%;
+}
+
+.news-and-reports .vector-7d7x4q {
+  background-color: transparent;
+  height: 0.58%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.71%;
+  width: 0.69%;
+}
+
+.news-and-reports .keyboardarrowright-xVANgt {
+  background-color: transparent;
+  height: 85px;
+  left: 1196px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 845px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.news-and-reports .keyboardarrowright-xVANgt:hover {
+  transform: scale(1.1);
+}
+
+.news-and-reports .vector-Zx4NP9 {
+  background-color: transparent;
+  height: 50.59%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24.71%;
+  width: 31.25%;
+}
+
+.news-and-reports .vector-DGka77 {
+  background-color: transparent;
+  height: 0.59%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.71%;
+  width: 0.69%;
+}
+
+.news-and-reports .dashiconswelcome-write-blog-tx6fPo {
+  background-color: transparent;
+  height: 93px;
+  left: 715px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 574px;
+  width: 93px;
+}
+
+.news-and-reports .vector-SOOwrZ {
+  background-color: transparent;
+  height: 86.02%;
+  left: 14.73%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.25%;
+  width: 78.49%;
+}
+
+.news-and-reports .x1-SOOwrZ {
+  background-color: transparent;
+  height: 37.40%;
+  left: 28.24%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.93%;
+  width: 18.18%;
+}
+
+.news-and-reports .since-it-was-es-ssrooms-to-date-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 613px;
+  width: 356px;
+}
+
+.news-and-reports .majesticonsfile-report-line-tx6fPo {
+  background-color: transparent;
+  height: 53px;
+  left: 245px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1343px;
+  width: 53px;
+}
+
+.news-and-reports .group-14OTUU {
+  background-color: transparent;
+  height: 83.33%;
+  left: 12.50%;
+  position: relative;
+  top: 8.33%;
+  width: 75.00%;
+}
+
+.news-and-reports .vector-iasEmx {
+  background-color: transparent;
+  height: 101.89%;
+  left: -0.31%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.94%;
+  width: 100.63%;
+}
+
+.news-and-reports .bxbx-news-tx6fPo {
+  background-color: transparent;
+  height: 53px;
+  left: 778px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1343px;
+  width: 53px;
+}
+
+.news-and-reports .vector-i7CVuv {
+  background-color: transparent;
+  height: 75.47%;
+  left: 7.55%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12.26%;
+  width: 84.91%;
+}
+
+.news-and-reports .vector-fbP8LA {
+  background-color: transparent;
+  height: 43.40%;
+  left: 24.53%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28.30%;
+  width: 50.94%;
+}
+
+.news-and-reports .rectangle-25-tx6fPo {
+  background-color: transparent;
+  height: 232px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 772px;
+  width: 129px;
+}
+
+.news-and-reports .what-does-trust-n-online-spaces-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 810px;
+  width: 351px;
+}
+
+.news-and-reports .dashiconswelcome-write-blog-0YIZ8o {
+  background-color: transparent;
+  height: 93px;
+  left: 715px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 841px;
+  width: 93px;
+}
+
+.news-and-reports .vector-4jRKME {
+  background-color: transparent;
+  height: 86.02%;
+  left: 14.73%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.25%;
+  width: 78.49%;
+}
+
+.news-and-reports .x2-4jRKME {
+  background-color: transparent;
+  height: 37.40%;
+  left: 28.24%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.93%;
+  width: 18.18%;
+}
+
+.news-and-reports .as-the-uof-t-co-ingly-important-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 889px;
+  width: 356px;
+}
+
+.news-and-reports .rectangle-26-tx6fPo {
+  background-color: transparent;
+  height: 232px;
+  left: 692px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1038px;
+  width: 129px;
+}
+
+.news-and-reports .transforming-th-ional-landscape-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1079px;
+  width: 341px;
+}
+
+.news-and-reports .dashiconswelcome-write-blog-xVANgt {
+  background-color: transparent;
+  height: 93px;
+  left: 715px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1107px;
+  width: 93px;
+}
+
+.news-and-reports .vector-D7DjCu {
+  background-color: transparent;
+  height: 86.02%;
+  left: 14.73%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.25%;
+  width: 78.49%;
+}
+
+.news-and-reports .x3-D7DjCu {
+  background-color: transparent;
+  height: 37.40%;
+  left: 28.24%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.93%;
+  width: 18.18%;
+}
+
+.news-and-reports .for-the-past-fo-rs-and-students-tx6fPo {
+  background-color: transparent;
+  height: auto;
+  left: 842px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1153px;
+  width: 356px;
+}

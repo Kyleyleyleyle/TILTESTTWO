@@ -1,0 +1,292 @@
+/* screen - contact-us */
+
+.contact-us {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 710px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contact-us .gallery-image2-q2xQ3x {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.contact-us .about-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.contact-us .about-q2xQ3x:hover {
+  color: #BFE7F5
+}
+
+.contact-us .home-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.contact-us .home-q2xQ3x:hover {
+  color: #BFE7F5
+}
+
+.contact-us .initiatives-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.contact-us .initiatives-q2xQ3x:hover {
+  color: #BFE7F5
+}
+
+.contact-us .classroom-redesign-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.contact-us .classroom-redesign-q2xQ3x:hover {
+  color: #BFE7F5
+}
+
+.contact-us .group-21-q2xQ3x {
+  background-color: transparent;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.contact-us .group-21-q2xQ3x:hover {
+  transform: scale(1.1);
+}
+
+.contact-us .rectangle-9-xRvWsV {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.contact-us .contact-us-xRvWsV {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.contact-us .news-and-reports-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.contact-us .news-and-reports-q2xQ3x:hover {
+  color: #BFE7F5
+}
+
+.contact-us .vector-q2xQ3x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 7.68%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.49%;
+  width: 10.49%;
+}
+
+.contact-us .til2021-logo-1-1-q2xQ3x {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.contact-us .contact-us-q2xQ3x {
+  background-color: transparent;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.contact-us .line-1-q2xQ3x {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.contact-us .looking-to-get-o-hear-from-you-q2xQ3x {
+  background-color: transparent;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 379px;
+  width: 1127px;
+}
+
+.contact-us .rectangle-19-q2xQ3x {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 170px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 472px;
+  width: 527px;
+}
+
+.contact-us .for-collarborat-fttilutorontoca-q2xQ3x {
+  background-color: transparent;
+  height: auto;
+  left: 444px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  width: 193px;
+}
+
+.contact-us .progress-q2xQ3x {
+  background-color: transparent;
+  height: 137px;
+  left: 267px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 148px;
+}
+
+.contact-us .rectangle-20-q2xQ3x {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 170px;
+  left: 726px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 472px;
+  width: 527px;
+}
+
+.contact-us .to-join-us-jointilutorontoca-q2xQ3x {
+  background-color: transparent;
+  height: auto;
+  left: 984px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  width: 193px;
+}
+
+.contact-us .progress-m5K9Qb {
+  background-color: transparent;
+  height: 137px;
+  left: 807px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 148px;
+}

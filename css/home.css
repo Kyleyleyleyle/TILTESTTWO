@@ -1,0 +1,574 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2717px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home .rectangle-11-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 547px;
+  left: 739px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1211px;
+  width: 523px;
+}
+
+.home .progress-xl4bh6 {
+  background-color: transparent;
+  height: 132px;
+  left: 894px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1303px;
+  width: 211px;
+}
+
+.home .rectangle-10-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 693px;
+  left: 178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1212px;
+  width: 523px;
+}
+
+.home .rectangle-14-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 532px;
+  left: 178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1947px;
+  width: 523px;
+}
+
+.home .instructional-technology-xl4bh6 {
+  background-color: transparent;
+  height: 162px;
+  left: 340px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2002px;
+  width: 198px;
+}
+
+.home .transforming-th-tments-at-uof-t-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1630px;
+  width: 391px;
+}
+
+.home .stakeholder-eng-pace-innovation-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2192px;
+  width: 392px;
+}
+
+.home .til-not-only-fo-ne-or-in-person-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 805px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1471px;
+  width: 392px;
+}
+
+.home .til-terrarium-1-xl4bh6 {
+  background-color: transparent;
+  height: 287px;
+  left: 355px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1320px;
+  width: 169px;
+}
+
+.home .transforming-th-l-landscape-til-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 299px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1073px;
+  width: auto;
+}
+
+.home .rectangle-13-xl4bh6 {
+  background-color: var(--madison);
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2567px;
+  width: 1440px;
+}
+
+.home .looking-to-get-you-contact-us-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2609px;
+  width: auto;
+}
+
+.home .span0-Pz0GVt {
+}
+
+.home .span1-Pz0GVt {
+  text-decoration: underline;
+}
+
+.home .line-1-xl4bh6 {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 1149px;
+  width: 261px;
+}
+
+.home .vector-xl4bh6 {
+  background-color: transparent;
+  height: 2.43%;
+  left: 22.43%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96.03%;
+  width: 3.89%;
+}
+
+.home .group-28-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 285px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2380px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.home .group-28-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-17-WJ9bxY {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.home .see-our-news-and-reports-WJ9bxY {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.home .group-26-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 358px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1753px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.home .group-26-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-16-A2xD3H {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.home .about-us-A2xD3H {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.home .group-27-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 901px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1622px;
+  transition: all 0.2s ease;
+  width: 199px;
+}
+
+.home .group-27-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-15-XMp0wb {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 197px;
+}
+
+.home .our-approach-XMp0wb {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.home .landing-page-4-xl4bh6 {
+  background-color: transparent;
+  height: 1135px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -56px;
+  width: 1440px;
+}
+
+.home .vector-efo9xP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1.99%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.18%;
+  width: 10.49%;
+}
+
+.home .lsm-logo2021-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: 608px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 939px;
+  width: 189px;
+}
+
+.home .vector-u6dkWh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.43%;
+  left: 25.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33.71%;
+  width: 12.78%;
+}
+
+.home .innovation-hub-icon-with-text-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 49px;
+  left: 828px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 933px;
+  width: 248px;
+}
+
+.home .about-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .about-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .home-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .home-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .initiatives-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .initiatives-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .classroom-redesign-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .classroom-redesign-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .news-and-reports-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.home .news-and-reports-xl4bh6:hover {
+  color: #BFE7F5
+}
+
+.home .group-21-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.home .group-21-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-9-qvCTow {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.home .contact-us-qvCTow {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.home .rectangle-12-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 682px;
+  left: 739px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1797px;
+  width: 523px;
+}
+
+.home .over-the-years-aching-at-uof-t-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 807px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2177px;
+  width: 390px;
+}
+
+.home .til-classroom-in-amy-forsey2-xl4bh6 {
+  background-color: transparent;
+  height: 242px;
+  left: 880px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1899px;
+  width: 242px;
+}
+
+.home .group-29-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 848px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2333px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.home .group-29-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .rectangle-9-qBlCVZ {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.home .learn-about-our-initiatives-qBlCVZ {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}

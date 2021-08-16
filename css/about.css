@@ -1,0 +1,749 @@
+/* screen - about */
+
+.about {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2098px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.about .rectangle-20-vRTBB9 {
+  background-color: #f2f2f2;
+  height: 739px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1359px;
+  width: 1440px;
+}
+
+.about .gallery-image2-vRTBB9 {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.about .about-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.about .about-vRTBB9:hover {
+  color: #BFE7F5
+}
+
+.about .home-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.about .home-vRTBB9:hover {
+  color: #BFE7F5
+}
+
+.about .initiatives-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.about .initiatives-vRTBB9:hover {
+  color: #BFE7F5
+}
+
+.about .classroom-redesign-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.about .classroom-redesign-vRTBB9:hover {
+  color: #BFE7F5
+}
+
+.about .group-21-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.about .group-21-vRTBB9:hover {
+  transform: scale(1.1);
+}
+
+.about .rectangle-9-46bShx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.about .contact-us-46bShx {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.about .news-and-reports-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.about .news-and-reports-vRTBB9:hover {
+  color: #BFE7F5
+}
+
+.about .vector-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.57%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.53%;
+  width: 10.49%;
+}
+
+.about .til2021-logo-1-1-vRTBB9 {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.about .about-uIp5D3 {
+  background-color: transparent;
+  height: auto;
+  left: 665px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.about .our-team-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1417px;
+  width: auto;
+}
+
+.about .name-surname-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-uIp5D3 {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .name-surname-d3lgnZ {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-laluDY {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .name-surname-4VxTZW {
+  background-color: transparent;
+  height: auto;
+  left: 543px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-Q1Zruj {
+  background-color: transparent;
+  height: auto;
+  left: 543px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .name-surname-9hmn3Y {
+  background-color: transparent;
+  height: auto;
+  left: 757px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-tRxMhI {
+  background-color: transparent;
+  height: auto;
+  left: 757px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .name-surname-nmGj9d {
+  background-color: transparent;
+  height: auto;
+  left: 971px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-xKVGuA {
+  background-color: transparent;
+  height: auto;
+  left: 971px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .name-surname-pGHXxl {
+  background-color: transparent;
+  height: auto;
+  left: 1185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1739px;
+  width: auto;
+}
+
+.about .name-surname-ugBo2x {
+  background-color: transparent;
+  height: auto;
+  left: 1185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1974px;
+  width: auto;
+}
+
+.about .line-1-vRTBB9 {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.about .line-2-vRTBB9 {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 1493px;
+  width: 261px;
+}
+
+.about .rectangle-10-vRTBB9 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 856px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 411px;
+  width: 431px;
+}
+
+.about .group-31-vRTBB9 {
+  background-color: transparent;
+  height: 44px;
+  left: 191px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1166px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.about .group-31-vRTBB9:hover {
+  transform: scale(1.1);
+}
+
+.about .rectangle-16-fJOfSa {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.about .community-fJOfSa {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.about .rectangle-17-vRTBB9 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 856px;
+  left: 505px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 411px;
+  width: 431px;
+}
+
+.about .group-32-vRTBB9 {
+  background-color: transparent;
+  height: 44px;
+  left: 639px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1166px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.about .group-32-vRTBB9:hover {
+  transform: scale(1.1);
+}
+
+.about .rectangle-18-nHxefj {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.about .origins-of-til-nHxefj {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.about .til-classroom-in-amy-forsey2-vRTBB9 {
+  background-color: transparent;
+  height: 280px;
+  left: 132px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 469px;
+  width: 280px;
+}
+
+.about .til-classroom-in-amy-forsey2-uIp5D3 {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-d3lgnZ {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-laluDY {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 327px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-4VxTZW {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 327px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-Q1Zruj {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 541px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-9hmn3Y {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 541px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-tRxMhI {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 755px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-nmGj9d {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 755px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-xKVGuA {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 969px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-pGHXxl {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 969px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-ugBo2x {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 1183px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1575px;
+  width: 144px;
+}
+
+.about .til-classroom-in-amy-forsey2-vzqq3P {
+  background-color: var(--madison);
+  border-radius: 153.5px;
+  height: 144px;
+  left: 1183px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1810px;
+  width: 144px;
+}
+
+.about .origins-of-til-image-vRTBB9 {
+  background-color: transparent;
+  height: 280px;
+  left: 580px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 469px;
+  width: 280px;
+}
+
+.about .transforming-th-d-themselves-in-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 857px;
+  width: 341px;
+}
+
+.about .since-its-estab-past-four-years-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 557px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 847px;
+  width: 328px;
+}
+
+.about .rectangle-21-vRTBB9 {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 856px;
+  left: 953px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 411px;
+  width: 431px;
+}
+
+.about .group-33-vRTBB9 {
+  background-color: transparent;
+  height: 44px;
+  left: 1087px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1166px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.about .group-33-vRTBB9:hover {
+  transform: scale(1.1);
+}
+
+.about .rectangle-22-u5e6ty {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.about .our-approach-u5e6ty {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.about .origins-of-til-image-uIp5D3 {
+  background-color: transparent;
+  height: 280px;
+  left: 1028px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 469px;
+  width: 280px;
+}
+
+.about .while-classroom-ng-environments-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 1005px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 810px;
+  width: 329px;
+}

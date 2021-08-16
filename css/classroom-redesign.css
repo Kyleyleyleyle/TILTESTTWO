@@ -1,0 +1,616 @@
+/* screen - classroom-redesign */
+
+.classroom-redesign {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2317px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.classroom-redesign .rectangle-20-KPYHeD {
+  background-color: #f2f2f2;
+  height: 675px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 700px;
+  width: 1440px;
+}
+
+.classroom-redesign .gallery-image2-KPYHeD {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.classroom-redesign .about-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.classroom-redesign .about-KPYHeD:hover {
+  color: #BFE7F5
+}
+
+.classroom-redesign .home-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.classroom-redesign .home-KPYHeD:hover {
+  color: #BFE7F5
+}
+
+.classroom-redesign .initiatives-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.classroom-redesign .initiatives-KPYHeD:hover {
+  color: #BFE7F5
+}
+
+.classroom-redesign .classroom-redesign-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 759px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.classroom-redesign .classroom-redesign-KPYHeD:hover {
+  color: #BFE7F5
+}
+
+.classroom-redesign .group-21-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1205px;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 165px;
+}
+
+.classroom-redesign .group-21-KPYHeD:hover {
+  transform: scale(1.1);
+}
+
+.classroom-redesign .rectangle-9-HIEydA {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.classroom-redesign .contact-us-HIEydA {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: auto;
+}
+
+.classroom-redesign .news-and-reports-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 990px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 64px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.classroom-redesign .news-and-reports-KPYHeD:hover {
+  color: #BFE7F5
+}
+
+.classroom-redesign .vector-KPYHeD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.33%;
+  left: 2.85%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.38%;
+  width: 10.49%;
+}
+
+.classroom-redesign .til2021-logo-1-1-KPYHeD {
+  background-color: transparent;
+  height: 23px;
+  left: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 256px;
+}
+
+.classroom-redesign .title-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 540px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 270px;
+  width: auto;
+}
+
+.classroom-redesign .rectangle-10-KPYHeD {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 763px;
+  left: 169px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1471px;
+  width: 349px;
+}
+
+.classroom-redesign .rectangle-17-KPYHeD {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 763px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1471px;
+  width: 350px;
+}
+
+.classroom-redesign .rectangle-19-KPYHeD {
+  background-color: var(--white);
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px #0000001a;
+  height: 763px;
+  left: 897px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1471px;
+  width: 349px;
+}
+
+.classroom-redesign .lorem-ipsum-dol-sequat-lobortis-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 581px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1845px;
+  width: 256px;
+}
+
+.classroom-redesign .lorem-ipsum-dol-sequat-lobortis-XgkmDS {
+  background-color: transparent;
+  height: auto;
+  left: 944px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1845px;
+  width: 256px;
+}
+
+.classroom-redesign .lorem-ipsum-dol-sequat-lobortis-tsOJLw {
+  background-color: transparent;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1845px;
+  width: 256px;
+}
+
+.classroom-redesign .active-learning-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 614px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1744px;
+  width: auto;
+}
+
+.classroom-redesign .instructional-technology-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1744px;
+  width: 255px;
+}
+
+.classroom-redesign .accessibility-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 987px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1744px;
+  width: 171px;
+}
+
+.classroom-redesign .til-theme-visual-1-KPYHeD {
+  background-color: transparent;
+  height: 164px;
+  left: 252px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1536px;
+  width: 183px;
+}
+
+.classroom-redesign .til-theme-visual-1-XgkmDS {
+  background-color: transparent;
+  height: 164px;
+  left: 616px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1536px;
+  width: 183px;
+}
+
+.classroom-redesign .til-theme-visual-1-tsOJLw {
+  background-color: transparent;
+  height: 164px;
+  left: 980px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1536px;
+  width: 183px;
+}
+
+.classroom-redesign .line-1-KPYHeD {
+  background-color: transparent;
+  height: 3px;
+  left: 590px;
+  position: absolute;
+  top: 346px;
+  width: 261px;
+}
+
+.classroom-redesign .ti-ls-classroom-classroomusers-KPYHeD {
+  background-color: transparent;
+  height: auto;
+  left: 169px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: 1079px;
+}
+
+.classroom-redesign .origins-of-til-image-KPYHeD {
+  background-color: transparent;
+  height: 462px;
+  left: 178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 786px;
+  width: 461px;
+}
+
+.classroom-redesign .origins-of-til-image-XgkmDS {
+  background-color: transparent;
+  height: 462px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 786px;
+  width: 575px;
+}
+
+.classroom-redesign .keyboardarrowright-KPYHeD {
+  background-color: transparent;
+  height: 72px;
+  left: 1261px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 984px;
+  width: 72px;
+}
+
+.classroom-redesign .vector-bm6zxq {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  width: 31.25%;
+}
+
+.classroom-redesign .vector-7V9qti {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  width: 0.69%;
+}
+
+.classroom-redesign .keyboardarrowright-XgkmDS {
+  background-color: transparent;
+  height: 72px;
+  left: 106px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 977px;
+  transform: rotate(180.00deg);
+  width: 72px;
+}
+
+.classroom-redesign .vector-DhAN4R {
+  background-color: transparent;
+  height: 50.00%;
+  left: 35.60%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.00%;
+  transform: rotate(-180.00deg);
+  width: 31.25%;
+}
+
+.classroom-redesign .vector-GSDc7l {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-180.00deg);
+  width: 0.69%;
+}
+
+.classroom-redesign .group-34-KPYHeD {
+  background-color: transparent;
+  height: 44px;
+  left: 950px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1281px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.classroom-redesign .group-34-KPYHeD:hover {
+  transform: scale(1.1);
+}
+
+.classroom-redesign .rectangle-9-GNNxnx {
+  background-color: var(--madison);
+  border-radius: 10px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.classroom-redesign .see-our-project-gallery-GNNxnx {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  width: auto;
+}
+
+.classroom-redesign .keyboardarrowright-tsOJLw {
+  background-color: transparent;
+  height: 72px;
+  left: 308px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 2162px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.classroom-redesign .keyboardarrowright-tsOJLw:hover {
+  transform: scale(1.1);
+}
+
+.classroom-redesign .vector-DqkxLz {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.classroom-redesign .vector-jM3wbc {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
+
+.classroom-redesign .keyboardarrowright-bxK5tV {
+  background-color: transparent;
+  height: 72px;
+  left: 684px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 2162px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.classroom-redesign .keyboardarrowright-bxK5tV:hover {
+  transform: scale(1.1);
+}
+
+.classroom-redesign .vector-BmLGNp {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.classroom-redesign .vector-8GEHJ2 {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
+
+.classroom-redesign .keyboardarrowright-yJ5wVW {
+  background-color: transparent;
+  height: 72px;
+  left: 1036px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 2162px;
+  transform: rotate(90.00deg);
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.classroom-redesign .keyboardarrowright-yJ5wVW:hover {
+  transform: scale(1.1);
+}
+
+.classroom-redesign .vector-X8jTgA {
+  background-color: transparent;
+  height: 31.25%;
+  left: 26.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.38%;
+  transform: rotate(-90.00deg);
+  width: 50.00%;
+}
+
+.classroom-redesign .vector-hjNuQZ {
+  background-color: transparent;
+  height: 0.69%;
+  left: 49.65%;
+  position: absolute;
+  top: 49.65%;
+  transform: rotate(-90.00deg);
+  width: 0.69%;
+}
